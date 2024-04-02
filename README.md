@@ -1,6 +1,6 @@
 # Abura 网站文档整理
 
-![网站概览](https://img1.wsimg.com/isteam/ip/c0a65637-b52c-4628-9970-59dcf93bda61/1825026766.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:984,h:724)
+![网站概览](images/logo.webp)
 
 ## 目录说明
 
